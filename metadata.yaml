@@ -1,0 +1,41 @@
+_repo: Kotona-KerttulassaKertomus-nuorisolle_18710
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Hahnsson, Theodolinda
+    aliases:
+    - Hahnsson, Sofia Theodolinda
+    - Yrjo-Koskinen, Theodolinda Limon
+    birthdate: 1838
+    deathdate: 1919
+    gutenberg_agent_id: '5391'
+    url: http://www.gutenberg.org/2009/agents/5391
+    wikipedia: http://fi.wikipedia.org/wiki/Theodolinda_Hahnsson
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Aina
+    aliases:
+    - Forssman, Edith Theodora
+    - Forssman, Edith
+    birthdate: 1856
+    deathdate: 1928
+    gutenberg_agent_id: '7703'
+    url: http://www.gutenberg.org/2009/agents/7703
+    wikipedia: http://fi.wikipedia.org/wiki/Edith_Forssman
+description: ''
+gutenberg_issued: '2006-06-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18710'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcc 'PT'
+title: 'Kotona Kerttulassa: Kertomus nuorisolle'
+url: http://www.gutenberg.org/ebooks/18710
